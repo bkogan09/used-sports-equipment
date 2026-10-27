@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bkogan09.github.io/used-sports-equipment/sitemap.xml
